@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-pic = cv2.imread('spiderman.jpeg', 0)
+pic = cv2.imread('spiderman.jpeg')
 
 matrix = (7,7)
 
